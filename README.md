@@ -2,11 +2,11 @@
 
 ***
 
-I am a frontend developer😎, final year computer engineering undergraduate 👩‍🎓, technical writer🖊️ and speaker who currently works as a freelance Frontend developer on various projects.
+I am a frontend engineer😎, final year computer engineering undergraduate 👩‍🎓, technical writer🖊️ and speaker.
 
 Aside coding fun projects, I enjoy creating technical content(on my IG account, my Hashnode [blog](https://glorypraise.hashnode.dev/) and other engineering blogs), 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available [here](https://myprojectportfolio-emmaglorypraise.netlify.app/)
 
-- 🤓 I'm currently learning Nuxt and Tailwind CSS
+- 🤓 I'm currently learning Nuxt and Solidity
 - 🤔 I’m looking for speaking and technical writing opportunities and frontend development gigs
 - 💬 Ask me about HTML/CSS, JavaScript, Vue.js, Content creation and Wordpress
 - 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
