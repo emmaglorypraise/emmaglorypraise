@@ -2,7 +2,7 @@
 
 ***
 
-I am a frontend engineer😎, technical writer🖊️ and speaker.
+I am a web3 frontend engineer😎, technical writer🖊️ and speaker.
 
 Aside coding fun projects, I enjoy creating technical content(on my IG account, my Hashnode [blog](https://glorypraise.hashnode.dev/) and other engineering blogs), 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available [here](https://myprojectportfolio-emmaglorypraise.netlify.app/)
 
