@@ -6,7 +6,7 @@ I am a web3 frontend engineer😎, technical writer🖊️ and speaker.
 
 Aside coding fun projects, I enjoy creating technical content(on my IG account, my Hashnode [blog](https://glorypraise.hashnode.dev/) and other engineering blogs), 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available [here](https://myprojectportfolio-emmaglorypraise.netlify.app/)
 
-- 🤓 I'm currently learning Nuxt and Solidity
+- 🤓 I'm currently learning Blockchain development
 - 🤔 I’m looking for Frontend engineering / Developer Relations roles, I am also open to speaking engagements
 - 💬 Ask me about HTML/CSS, JavaScript, Vue.js, React, Web3/Blockchain development
 - 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
