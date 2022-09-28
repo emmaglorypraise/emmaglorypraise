@@ -1,4 +1,4 @@
-### Hi there 👋 I am Glory Praise
+### Hi there 👋 I am Glory Praise Emmanuel
 
 ***
 
