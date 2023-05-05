@@ -6,7 +6,7 @@ I am a blockchain developer, smart contract developer, web3 frontend engineer�
 
 - 🤓 I am currently learning Blockchain development
 - 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
-- 💬 Ask me about HTML/CSS, JavaScript/Typescript, Vue.js, React, Solidity, Web3 & Blockchain development
+- 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
 - 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a very healthy sense of humor😂
