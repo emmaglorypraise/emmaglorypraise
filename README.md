@@ -4,7 +4,7 @@
 
 I am a blockchain developer, smart contract developer, web3 frontend engineer😎, technical writer🖊️ and speaker.
 
-- 🤓 I am currently learning Blockchain development
+- 🤓 I am currently learning Core Protocol Blockchain development
 - 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
 - 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
 - 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
