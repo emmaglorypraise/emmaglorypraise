@@ -2,16 +2,16 @@
 
 ***
 
-I am a blockchain developer, smart contract developer, web3 frontend engineer😎, technical writer🖊️ and speaker.
+I am a Software Engineer specializing in Web3 and Blockchain development.
 
-- 🤓 I am currently learning Core Protocol Blockchain development
-- 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
-- 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
+- 🤓 I am currently learning Core Protocol Blockchain development with Rust.
+🤔 I am open to Blockchain/Smart contract development and Developer Advocacy roles. I am also open to speaking at events and facilitating technical workshops.
+- 💬 Ask me about Solidity, Web3 & Blockchain development.
 - 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a very healthy sense of humor😂
 
-Aside coding fun projects, I enjoy creating technical content(on my Hashnode [blog](https://glorypraise.hashnode.dev/) and other engineering blogs), 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. 
+Aside from coding amazing projects, I enjoy creating technical content on my YouTube [channel](https://www.youtube.com/). I also have a weekly web3 [newsletter](https://www.youtube.com/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaglorypraise&show_icons=true&theme=radical" />
@@ -19,6 +19,4 @@ Aside coding fun projects, I enjoy creating technical content(on my Hashnode [bl
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
 </a>
-
-
 
