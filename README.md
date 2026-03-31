@@ -1,17 +1,43 @@
-### Hi there 👋 I am Glory Praise Emmanuel
+## Hi, I'm Glory Praise Emmanuel 👋
 
-***
+I am a Software Engineer with 5+ years building backend systems, Web3 infrastructure, and full-stack applications.
 
-I am a Software Engineer with 7+ years of experience building production systems across backend infrastructure, blockchain protocols, and frontend interfaces. I work primarily in Rust and TypeScript, with deep experience in Web2, Web3, and distributed systems.
+I work primarily in Rust and TypeScript, with deep experience across EVM, Bitcoin, Polkadot, and Stellar ecosystems.
 
+---
 
-🔧 Currently building in Rust in backend systems, blockchain infrastructure, and smart contracts across EVM, Polkadot, Arbitrum, and Stellar ecosystems
-- 💬 Ask me about Rust, backend & Web3 development, and system design.
-- 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
+### 🔧 Stack
+
+**Backend:** Rust · Axum ·Node.js · Express · PostgreSQL · MySQL · Redis · REST APIs  
+**Blockchain:** Solidity · TypeScript · EVM · Bitcoin · Polkadot · Stellar  
+**Frontend:** React · Next.js · Tailwind CSS 
+**AI/LLM:** OpenAI · Gemini · Prompt Engineering · Streaming  
+**Tooling:** Hardhat · Foundry · Docker   
+
+---
+
+### 🦀 100 Rust Projects — Open Source
+
+A collection of 100 completed Rust projects covering backend systems, CLI tools, REST APIs, async programming, and systems programming. Built as an open source resource for developers learning Rust.
+
+Feel free to explore, fork, and build on any of the projects.
+
+→ [github.com/emmaglorypraise/100rustprojects](https://github.com/emmaglorypraise/100rustprojects)
+
+---
+
+### 📫 Get in Touch
+
+- 📧 emmaglorypraise@gmail.com
+- 💼 [linkedin.com/in/emmaglorypraise](https://linkedin.com/in/emmaglorypraise)
+- 🐦 [x.com/emmaglorypraise](https://x.com/emmaglorypraise)
+- 🎥 [youtube.com/@emmaglorypraise](https://youtube.com/@emmaglorypraise)
+- ✍🏾 [glorypraise.hashnode.dev](https://glorypraise.hashnode.dev)
+- 🚀 [0xshiphq.com](https://0xshiphq.com)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have a very healthy sense of humor😂
+- ⚡ Fun fact: I have a very healthy sense of humor 😂
 
-Aside from coding, I create technical content on my YouTube [channel](https://www.youtube.com/@emmaglorypraise) and run a weekly tech [newsletter](https://0xshiphq.substack.com/).
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmaglorypraise&show_icons=true&theme=radical" />
