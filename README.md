@@ -1,6 +1,6 @@
 ## Hi, I'm Glory Praise Emmanuel 👋
 
-I am a Software Engineer with 5+ years building backend systems, Web3 infrastructure, and full-stack applications.
+I am a Software Engineer with 5+ years of experience building backend systems, Web3 infrastructure, and full-stack applications.
 
 I work primarily in Rust and TypeScript, with deep experience across EVM, Bitcoin, Polkadot, and Stellar ecosystems.
 
@@ -8,11 +8,11 @@ I work primarily in Rust and TypeScript, with deep experience across EVM, Bitcoi
 
 ### 🔧 Stack
 
-**Backend:** Rust · Axum ·Node.js · Express · PostgreSQL · MySQL · Redis · REST APIs  
-**Blockchain:** Solidity · TypeScript · EVM · Bitcoin · Polkadot · Stellar  
-**Frontend:** React · Next.js · Tailwind CSS
+**Backend:** Rust · Axum · Node.js · Express · PostgreSQL · MySQL · Redis · REST APIs  
+**Blockchain:** Solidity · TypeScript · EVM · Polkadot · Stellar  
+**Frontend:** React · Next.js · Vue.js · Tailwind CSS  
 **AI/LLM:** OpenAI · Gemini · Prompt Engineering · Streaming  
-**Tooling:** Hardhat · Foundry · Docker   
+**Tooling:** Hardhat · Foundry · Docker
 
 ---
 
@@ -28,12 +28,7 @@ Feel free to explore, fork, and build on any of the projects.
 
 ### 📫 Get in Touch
 
-- 📧 emmaglorypraise@gmail.com
-- 💼 [linkedin.com/in/emmaglorypraise](https://linkedin.com/in/emmaglorypraise)
-- 🐦 [x.com/emmaglorypraise](https://x.com/emmaglorypraise)
-- 🎥 [youtube.com/@emmaglorypraise](https://youtube.com/@emmaglorypraise)
-- ✍🏾 [glorypraise.hashnode.dev](https://glorypraise.hashnode.dev)
-- 🚀 [0xshiphq.com](https://0xshiphq.com)
+- 🔗 [linktr.ee/emmaglorypraise](https://linktr.ee/emmaglorypraise)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a very healthy sense of humor 😂
 
@@ -45,5 +40,7 @@ Feel free to explore, fork, and build on any of the projects.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
 </a>
+
+---
 
 
