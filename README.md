@@ -10,7 +10,7 @@ I work primarily in Rust and TypeScript, with deep experience across EVM, Bitcoi
 
 **Backend:** Rust · Axum ·Node.js · Express · PostgreSQL · MySQL · Redis · REST APIs  
 **Blockchain:** Solidity · TypeScript · EVM · Bitcoin · Polkadot · Stellar  
-**Frontend:** React · Next.js · Tailwind CSS 
+**Frontend:** React · Next.js · Tailwind CSS
 **AI/LLM:** OpenAI · Gemini · Prompt Engineering · Streaming  
 **Tooling:** Hardhat · Foundry · Docker   
 
@@ -45,4 +45,5 @@ Feel free to explore, fork, and build on any of the projects.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmaglorypraise&langs_count=8&layout=compact&theme=radical" />
 </a>
+
 
