@@ -32,8 +32,6 @@ Feel free to explore, fork, and build on any of the projects.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a very healthy sense of humor 😂
 
----
-
 
 
 
