@@ -16,16 +16,6 @@ I work primarily in Rust and TypeScript, with deep experience across EVM, Bitcoi
 
 ---
 
-### 🦀 100 Rust Projects — Open Source
-
-A collection of 100 completed Rust projects covering backend systems, CLI tools, REST APIs, async programming, and systems programming. Built as an open source resource for developers learning Rust.
-
-Feel free to explore, fork, and build on any of the projects.
-
-→ [github.com/emmaglorypraise/100rustprojects](https://github.com/emmaglorypraise/100rustprojects)
-
----
-
 ### 📫 Get in Touch
 
 - 🔗 [linktr.ee/emmaglorypraise](https://linktr.ee/emmaglorypraise)
